@@ -1,0 +1,27 @@
+{
+  "name": "express-mongoose-sort",
+  "version": "1.0.0",
+  "description": "Parse req.query.sort to res.locals.sort",
+  "main": "index.js",
+  "scripts": {
+    "test": "node node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariusc23/express-mongoose-sort.git"
+  },
+  "author": "Marius Craciunoiu <marius@craciunoiu.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mariusc23/express-mongoose-sort/issues"
+  },
+  "homepage": "https://github.com/mariusc23/express-mongoose-sort#readme",
+  "engines": {
+    "node": ">=4"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3",
+    "qs": "^6.2.0"
+  }
+}
