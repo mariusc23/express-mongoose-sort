@@ -2,6 +2,10 @@
 
 > Parse req.query.sort to res.locals.sort
 
+## Installation
+
+    npm install --save express-mongoose-sort
+
 ## Usage
 
 Mount the middlewere in your router.
